@@ -18,20 +18,17 @@ Unlike Amazon's AI-generated review feature, which may have inherent biases, our
 git clone https://github.com/LMU-CMSI-Korpusik/project-tsa.git
 ```
 - Navigate to the project directory
-```bash
-cd project-tsa
-```
+
 - If not already installed, install Jupyter Notebook
 ```bash
 pip install notebook
 ```
-
 - Launch Jupyter Notebook
 ```bash
 jupyter notebook
 ```
 
-- Download and add ["Reviews.csv"](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews) to the project folder.
+- Download and add ["Reviews.csv"](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews) from Kaggle to the project folder.
   
 - Open the provided Jupyter Notebook file and execute the cells to run the project.
 
